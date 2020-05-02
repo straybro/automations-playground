@@ -1,3 +1,9 @@
 # dependencies
 /node_modules
 .git-credentials
+
+# ide
+.idea
+
+# build
+.build
